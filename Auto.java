@@ -65,14 +65,6 @@ public class Auto {
 		
 	}
 	
-	///////
-	
-	// Rimantas
-	// Rimantas 1
-	// Rimantas 2
-	// Rimantas 3
-	
-	
 	
 	
 	

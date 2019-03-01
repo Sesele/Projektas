@@ -62,16 +62,7 @@ public class Auto {
 	@Override
 	public String toString() {
 		return  String.format("%10s", numeris) + " -  " + pradzia + "  - "  + pabaiga + " -   " 	+ suma ;
-		
 	}
-	
-	///////
-	
-	// Rimantas
-	// Rimantas 1
-	// Rimantas 2
-	// Rimantas 3
-	
 	
 	
 	

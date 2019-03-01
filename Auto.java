@@ -62,7 +62,6 @@ public class Auto {
 	@Override
 	public String toString() {
 		return  String.format("%10s", numeris) + " -  " + pradzia + "  - "  + pabaiga + " -   " 	+ suma ;
-		
 	}
 	
 	
